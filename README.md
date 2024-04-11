@@ -1,5 +1,5 @@
 # aboutMe
-some general info about me:
+Some general info about me:
 - Norwegian
 - Student
 - Coding for fun
